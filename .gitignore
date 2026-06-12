@@ -10,3 +10,10 @@ env/
 .vscode/
 *.swp
 *.swo
+
+# Local AI-assistant scaffolding (not for the repo)
+CLAUDE.md
+.claude/
+
+# Generated dependency catalog (via /packages skill); kept local, not pushed
+docs/PACKAGES.md
