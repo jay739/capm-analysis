@@ -1,5 +1,9 @@
 # Capital Asset Pricing Model (CAPM) Stock Analysis
 
+<p align="center">
+  <img src="docs/logo.svg" alt="capm-analysis logo" width="128" />
+</p>
+
 This repository contains a comprehensive **Python/Jupyter Notebook** implementation of the **Capital Asset Pricing Model (CAPM)** to analyze and benchmark risk-adjusted performance across a 54-stock universe spanning all 11 GICS sectors, against the S&P 500 (SPY) as the market benchmark, plus a Monte Carlo Value at Risk for an equal-weight portfolio of those stocks.
 
 ## Project Features

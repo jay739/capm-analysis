@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="0" y="0" width="512" height="512" rx="123" ry="123" fill="#0B0D10"/>
+  <g id="icon">
+    <!-- security characteristic line -->
+    <line x1="104" y1="392" x2="412" y2="136" stroke="#6366F1" stroke-width="30" stroke-linecap="round"/>
+    <!-- daily returns scattered around it -->
+    <circle cx="160" cy="290" r="24" fill="#6366F1"/>
+    <circle cx="232" cy="342" r="24" fill="#6366F1"/>
+    <circle cx="300" cy="173" r="24" fill="#6366F1"/>
+    <circle cx="356" cy="239" r="24" fill="#6366F1"/>
+    <!-- the market itself, beta 1 -->
+    <circle cx="256" cy="266" r="26" fill="#F2F0EA" stroke="#0B0D10" stroke-width="12"/>
+  </g>
+</svg>
